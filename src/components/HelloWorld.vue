@@ -17,7 +17,7 @@
     <tr v-for="(user,index) in users" :key="index">
     <td>{{user.name}}</td>
     <td>{{user.name}}</td>
-    <td>yh</td>
+    <td></td>
     <td>f</td>
     <td>s</td>
     </tr>
